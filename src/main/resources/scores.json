@@ -1,0 +1,3226 @@
+[
+  {
+    "capability": "COST",
+    "score": 565,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832348"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15222402"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217169"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI11462742"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI11948934"
+  },
+  {
+    "capability": "COST",
+    "score": 517,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715494"
+  },
+  {
+    "capability": "COST",
+    "score": 798,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394308"
+  },
+  {
+    "capability": "COST",
+    "score": 848,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458935"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI02823781"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217211"
+  },
+  {
+    "capability": "COST",
+    "score": 797,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715469"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716664"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191515"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458938"
+  },
+  {
+    "capability": "COST",
+    "score": 846,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715532"
+  },
+  {
+    "capability": "COST",
+    "score": 809,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI07362665"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15435478"
+  },
+  {
+    "capability": "COST",
+    "score": 813,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191527"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191461"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI12784937"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394339"
+  },
+  {
+    "capability": "COST",
+    "score": 804,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283286"
+  },
+  {
+    "capability": "COST",
+    "score": 771,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191505"
+  },
+  {
+    "capability": "COST",
+    "score": 764,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03007942"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716635"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03281169"
+  },
+  {
+    "capability": "COST",
+    "score": 805,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832342"
+  },
+  {
+    "capability": "COST",
+    "score": 809,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191447"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394295"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI14017649"
+  },
+  {
+    "capability": "COST",
+    "score": 746,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15914444"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832331"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283301"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832341"
+  },
+  {
+    "capability": "COST",
+    "score": 798,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI05258767"
+  },
+  {
+    "capability": "COST",
+    "score": 803,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458920"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217161"
+  },
+  {
+    "capability": "COST",
+    "score": 832,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI14017659"
+  },
+  {
+    "capability": "COST",
+    "score": 622,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI07802572"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394341"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394349"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI13744051"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15785647"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03007918"
+  },
+  {
+    "capability": "COST",
+    "score": 809,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458944"
+  },
+  {
+    "capability": "COST",
+    "score": 778,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394297"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283306"
+  },
+  {
+    "capability": "COST",
+    "score": 836,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394328"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI07354747"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283304"
+  },
+  {
+    "capability": "COST",
+    "score": 845,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI07381838"
+  },
+  {
+    "capability": "COST",
+    "score": 844,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715485"
+  },
+  {
+    "capability": "COST",
+    "score": 815,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15787345"
+  },
+  {
+    "capability": "COST",
+    "score": 838,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715535"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03007910"
+  },
+  {
+    "capability": "COST",
+    "score": 791,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832338"
+  },
+  {
+    "capability": "COST",
+    "score": 755,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI02823774"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394314"
+  },
+  {
+    "capability": "COST",
+    "score": 789,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832333"
+  },
+  {
+    "capability": "COST",
+    "score": 787,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283295"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03144745"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI14017635"
+  },
+  {
+    "capability": "COST",
+    "score": 818,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832337"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715471"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217213"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217227"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716681"
+  },
+  {
+    "capability": "COST",
+    "score": 801,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI05382342"
+  },
+  {
+    "capability": "COST",
+    "score": 775,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191481"
+  },
+  {
+    "capability": "COST",
+    "score": 783,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03151014"
+  },
+  {
+    "capability": "COST",
+    "score": 810,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716623"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217185"
+  },
+  {
+    "capability": "COST",
+    "score": 822,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715527"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217179"
+  },
+  {
+    "capability": "COST",
+    "score": 822,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716663"
+  },
+  {
+    "capability": "COST",
+    "score": 756,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458936"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217157"
+  },
+  {
+    "capability": "COST",
+    "score": 837,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394152"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191469"
+  },
+  {
+    "capability": "COST",
+    "score": 836,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283285"
+  },
+  {
+    "capability": "COST",
+    "score": 848,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716628"
+  },
+  {
+    "capability": "COST",
+    "score": 796,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394307"
+  },
+  {
+    "capability": "COST",
+    "score": 814,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394153"
+  },
+  {
+    "capability": "COST",
+    "score": 809,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI02990343"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715533"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394305"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10888347"
+  },
+  {
+    "capability": "COST",
+    "score": 796,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832325"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217207"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458921"
+  },
+  {
+    "capability": "COST",
+    "score": 647,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI14017655"
+  },
+  {
+    "capability": "COST",
+    "score": 805,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832328"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217221"
+  },
+  {
+    "capability": "COST",
+    "score": 829,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191525"
+  },
+  {
+    "capability": "COST",
+    "score": 824,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458928"
+  },
+  {
+    "capability": "COST",
+    "score": 835,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00717529"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI11323918"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15773405"
+  },
+  {
+    "capability": "COST",
+    "score": 828,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191531"
+  },
+  {
+    "capability": "COST",
+    "score": 818,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI02823778"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI02987640"
+  },
+  {
+    "capability": "COST",
+    "score": 841,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI02823767"
+  },
+  {
+    "capability": "COST",
+    "score": 815,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716592"
+  },
+  {
+    "capability": "COST",
+    "score": 804,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI02823777"
+  },
+  {
+    "capability": "COST",
+    "score": 838,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716662"
+  },
+  {
+    "capability": "COST",
+    "score": 639,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715555"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI08596450"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716615"
+  },
+  {
+    "capability": "COST",
+    "score": 840,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191499"
+  },
+  {
+    "capability": "COST",
+    "score": 840,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI14017639"
+  },
+  {
+    "capability": "COST",
+    "score": 821,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15787344"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832334"
+  },
+  {
+    "capability": "COST",
+    "score": 842,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458930"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10940590"
+  },
+  {
+    "capability": "COST",
+    "score": 817,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715523"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217195"
+  },
+  {
+    "capability": "COST",
+    "score": 833,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI05258763"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15914457"
+  },
+  {
+    "capability": "COST",
+    "score": 786,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191483"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI07354745"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217205"
+  },
+  {
+    "capability": "COST",
+    "score": 842,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716622"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15914436"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217217"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394151"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI13825930"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191463"
+  },
+  {
+    "capability": "COST",
+    "score": 821,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191545"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15464777"
+  },
+  {
+    "capability": "COST",
+    "score": 658,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191489"
+  },
+  {
+    "capability": "COST",
+    "score": 849,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI14017675"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI14017657"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716636"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217150"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716633"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715537"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716611"
+  },
+  {
+    "capability": "COST",
+    "score": 653,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832322"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI04570374"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191437"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI13825932"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI02823782"
+  },
+  {
+    "capability": "COST",
+    "score": 846,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458929"
+  },
+  {
+    "capability": "COST",
+    "score": 813,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716655"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458947"
+  },
+  {
+    "capability": "COST",
+    "score": 803,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716606"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394316"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03144747"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15417120"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03007966"
+  },
+  {
+    "capability": "COST",
+    "score": 831,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03007908"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI13856367"
+  },
+  {
+    "capability": "COST",
+    "score": 719,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715506"
+  },
+  {
+    "capability": "COST",
+    "score": 789,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI02823770"
+  },
+  {
+    "capability": "COST",
+    "score": 839,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716596"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715539"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217209"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458937"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217155"
+  },
+  {
+    "capability": "COST",
+    "score": 848,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715522"
+  },
+  {
+    "capability": "COST",
+    "score": 773,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191513"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217203"
+  },
+  {
+    "capability": "COST",
+    "score": 812,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15914437"
+  },
+  {
+    "capability": "COST",
+    "score": 754,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15787340"
+  },
+  {
+    "capability": "COST",
+    "score": 814,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394306"
+  },
+  {
+    "capability": "COST",
+    "score": 754,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03362873"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15971797"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832347"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15914455"
+  },
+  {
+    "capability": "COST",
+    "score": 798,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00717534"
+  },
+  {
+    "capability": "COST",
+    "score": 798,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458952"
+  },
+  {
+    "capability": "COST",
+    "score": 835,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI02823779"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394350"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI04570371"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15914448"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217191"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217219"
+  },
+  {
+    "capability": "COST",
+    "score": 811,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458927"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15426933"
+  },
+  {
+    "capability": "COST",
+    "score": 736,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458939"
+  },
+  {
+    "capability": "COST",
+    "score": 815,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191485"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217159"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283300"
+  },
+  {
+    "capability": "COST",
+    "score": 784,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716649"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458943"
+  },
+  {
+    "capability": "COST",
+    "score": 840,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15787343"
+  },
+  {
+    "capability": "COST",
+    "score": 848,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716639"
+  },
+  {
+    "capability": "COST",
+    "score": 805,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI05258759"
+  },
+  {
+    "capability": "COST",
+    "score": 810,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715530"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03007916"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191487"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394346"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715536"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716590"
+  },
+  {
+    "capability": "COST",
+    "score": 752,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716613"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI07585434"
+  },
+  {
+    "capability": "COST",
+    "score": 812,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191547"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15391367"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394348"
+  },
+  {
+    "capability": "COST",
+    "score": 567,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283280"
+  },
+  {
+    "capability": "COST",
+    "score": 684,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217197"
+  },
+  {
+    "capability": "COST",
+    "score": 812,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458922"
+  },
+  {
+    "capability": "COST",
+    "score": 697,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15787339"
+  },
+  {
+    "capability": "COST",
+    "score": 587,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715515"
+  },
+  {
+    "capability": "COST",
+    "score": 813,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191441"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217177"
+  },
+  {
+    "capability": "COST",
+    "score": 742,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394149"
+  },
+  {
+    "capability": "COST",
+    "score": 608,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715602"
+  },
+  {
+    "capability": "COST",
+    "score": 742,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283305"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832349"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716688"
+  },
+  {
+    "capability": "COST",
+    "score": 834,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI12186958"
+  },
+  {
+    "capability": "COST",
+    "score": 807,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458932"
+  },
+  {
+    "capability": "COST",
+    "score": 844,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15914439"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI07802564"
+  },
+  {
+    "capability": "COST",
+    "score": 838,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI02867780"
+  },
+  {
+    "capability": "COST",
+    "score": 800,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716682"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191477"
+  },
+  {
+    "capability": "COST",
+    "score": 818,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458951"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217181"
+  },
+  {
+    "capability": "COST",
+    "score": 750,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10822772"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283290"
+  },
+  {
+    "capability": "COST",
+    "score": 844,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191559"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832326"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI02838433"
+  },
+  {
+    "capability": "COST",
+    "score": 416,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217139"
+  },
+  {
+    "capability": "COST",
+    "score": 730,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15787341"
+  },
+  {
+    "capability": "COST",
+    "score": 819,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15971800"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217201"
+  },
+  {
+    "capability": "COST",
+    "score": 740,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716640"
+  },
+  {
+    "capability": "COST",
+    "score": 664,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI14017651"
+  },
+  {
+    "capability": "COST",
+    "score": 828,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716690"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15914441"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15868102"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191449"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832330"
+  },
+  {
+    "capability": "COST",
+    "score": 810,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI14017653"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191439"
+  },
+  {
+    "capability": "COST",
+    "score": 641,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283292"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217199"
+  },
+  {
+    "capability": "COST",
+    "score": 818,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191507"
+  },
+  {
+    "capability": "COST",
+    "score": 748,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394150"
+  },
+  {
+    "capability": "COST",
+    "score": 802,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15914452"
+  },
+  {
+    "capability": "COST",
+    "score": 823,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715466"
+  },
+  {
+    "capability": "COST",
+    "score": 715,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15971793"
+  },
+  {
+    "capability": "COST",
+    "score": 839,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716637"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191453"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217152"
+  },
+  {
+    "capability": "COST",
+    "score": 806,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716605"
+  },
+  {
+    "capability": "COST",
+    "score": 802,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI12560203"
+  },
+  {
+    "capability": "COST",
+    "score": 769,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03007934"
+  },
+  {
+    "capability": "COST",
+    "score": 815,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716648"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI02988416"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15787335"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI02823769"
+  },
+  {
+    "capability": "COST",
+    "score": 803,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716609"
+  },
+  {
+    "capability": "COST",
+    "score": 826,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI12177120"
+  },
+  {
+    "capability": "COST",
+    "score": 753,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI14017637"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191501"
+  },
+  {
+    "capability": "COST",
+    "score": 831,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283296"
+  },
+  {
+    "capability": "COST",
+    "score": 822,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716641"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191543"
+  },
+  {
+    "capability": "COST",
+    "score": 814,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716672"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716638"
+  },
+  {
+    "capability": "COST",
+    "score": 818,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716593"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI07802562"
+  },
+  {
+    "capability": "COST",
+    "score": 769,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15787333"
+  },
+  {
+    "capability": "COST",
+    "score": 831,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI14017677"
+  },
+  {
+    "capability": "COST",
+    "score": 676,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716629"
+  },
+  {
+    "capability": "COST",
+    "score": 790,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI14017663"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI14017647"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI07802578"
+  },
+  {
+    "capability": "COST",
+    "score": 579,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15971808"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716603"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394326"
+  },
+  {
+    "capability": "COST",
+    "score": 845,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283294"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191521"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217171"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI07802580"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03007920"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03007950"
+  },
+  {
+    "capability": "COST",
+    "score": 837,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03007956"
+  },
+  {
+    "capability": "COST",
+    "score": 741,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394324"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15914454"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832346"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03061144"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217141"
+  },
+  {
+    "capability": "COST",
+    "score": 830,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716659"
+  },
+  {
+    "capability": "COST",
+    "score": 837,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283299"
+  },
+  {
+    "capability": "COST",
+    "score": 491,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03007932"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI04993706"
+  },
+  {
+    "capability": "COST",
+    "score": 840,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832332"
+  },
+  {
+    "capability": "COST",
+    "score": 799,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI05258761"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15914449"
+  },
+  {
+    "capability": "COST",
+    "score": 795,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191541"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15914451"
+  },
+  {
+    "capability": "COST",
+    "score": 537,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832339"
+  },
+  {
+    "capability": "COST",
+    "score": 844,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03007948"
+  },
+  {
+    "capability": "COST",
+    "score": 792,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191491"
+  },
+  {
+    "capability": "COST",
+    "score": 847,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715473"
+  },
+  {
+    "capability": "COST",
+    "score": 586,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191475"
+  },
+  {
+    "capability": "COST",
+    "score": 841,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI02823780"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715540"
+  },
+  {
+    "capability": "COST",
+    "score": 557,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715511"
+  },
+  {
+    "capability": "COST",
+    "score": 688,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394329"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394347"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15782809"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217252"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03007930"
+  },
+  {
+    "capability": "COST",
+    "score": 492,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458950"
+  },
+  {
+    "capability": "COST",
+    "score": 820,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191535"
+  },
+  {
+    "capability": "COST",
+    "score": 774,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10888345"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832324"
+  },
+  {
+    "capability": "COST",
+    "score": 665,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832327"
+  },
+  {
+    "capability": "COST",
+    "score": 741,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715581"
+  },
+  {
+    "capability": "COST",
+    "score": 802,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI14017645"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832335"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191551"
+  },
+  {
+    "capability": "COST",
+    "score": 780,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715479"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715470"
+  },
+  {
+    "capability": "COST",
+    "score": 841,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283298"
+  },
+  {
+    "capability": "COST",
+    "score": 639,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191497"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00718351"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15971809"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217189"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191537"
+  },
+  {
+    "capability": "COST",
+    "score": 826,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715478"
+  },
+  {
+    "capability": "COST",
+    "score": 837,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394342"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191495"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191451"
+  },
+  {
+    "capability": "COST",
+    "score": 834,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI14017641"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217183"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191511"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832323"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716686"
+  },
+  {
+    "capability": "COST",
+    "score": 576,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716687"
+  },
+  {
+    "capability": "COST",
+    "score": 834,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458926"
+  },
+  {
+    "capability": "COST",
+    "score": 838,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832336"
+  },
+  {
+    "capability": "COST",
+    "score": 732,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03007944"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI07802560"
+  },
+  {
+    "capability": "COST",
+    "score": 698,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715508"
+  },
+  {
+    "capability": "COST",
+    "score": 710,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716667"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283291"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03007964"
+  },
+  {
+    "capability": "COST",
+    "score": 826,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15832329"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI07355499"
+  },
+  {
+    "capability": "COST",
+    "score": 790,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458925"
+  },
+  {
+    "capability": "COST",
+    "score": 795,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283307"
+  },
+  {
+    "capability": "COST",
+    "score": 509,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716691"
+  },
+  {
+    "capability": "COST",
+    "score": 799,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283289"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394312"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217187"
+  },
+  {
+    "capability": "COST",
+    "score": 819,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03007968"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15914445"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15787342"
+  },
+  {
+    "capability": "COST",
+    "score": 806,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458934"
+  },
+  {
+    "capability": "COST",
+    "score": 732,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394343"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283293"
+  },
+  {
+    "capability": "COST",
+    "score": 844,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00718343"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458931"
+  },
+  {
+    "capability": "COST",
+    "score": 807,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217193"
+  },
+  {
+    "capability": "COST",
+    "score": 499,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715548"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15787336"
+  },
+  {
+    "capability": "COST",
+    "score": 544,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716591"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15914447"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715524"
+  },
+  {
+    "capability": "COST",
+    "score": 788,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716612"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15914438"
+  },
+  {
+    "capability": "COST",
+    "score": 552,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394309"
+  },
+  {
+    "capability": "COST",
+    "score": 818,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458923"
+  },
+  {
+    "capability": "COST",
+    "score": 796,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI07354741"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15930295"
+  },
+  {
+    "capability": "COST",
+    "score": 839,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716671"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15914443"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217145"
+  },
+  {
+    "capability": "COST",
+    "score": 610,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03032052"
+  },
+  {
+    "capability": "COST",
+    "score": 744,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191471"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI14017643"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458941"
+  },
+  {
+    "capability": "COST",
+    "score": 836,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191553"
+  },
+  {
+    "capability": "COST",
+    "score": 792,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15914435"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15871419"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15283297"
+  },
+  {
+    "capability": "COST",
+    "score": 494,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716679"
+  },
+  {
+    "capability": "COST",
+    "score": 485,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716668"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15394148"
+  },
+  {
+    "capability": "COST",
+    "score": 844,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00715481"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217167"
+  },
+  {
+    "capability": "COST",
+    "score": 827,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI14017669"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15232851"
+  },
+  {
+    "capability": "COST",
+    "score": 670,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03007954"
+  },
+  {
+    "capability": "COST",
+    "score": 835,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI14017665"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458940"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191465"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15458933"
+  },
+  {
+    "capability": "COST",
+    "score": 771,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716654"
+  },
+  {
+    "capability": "COST",
+    "score": 698,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI07381836"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15217215"
+  },
+  {
+    "capability": "COST",
+    "score": 757,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00716652"
+  },
+  {
+    "capability": "COST",
+    "score": 833,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI10191549"
+  },
+  {
+    "capability": "COST",
+    "score": 764,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI03007928"
+  },
+  {
+    "capability": "COST",
+    "score": 850,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI15914453"
+  },
+  {
+    "capability": "COST",
+    "score": 773,
+    "score_config_id": "COST_SCORE_CONF",
+    "run_date": "2025-02-14T00:00:00Z",
+    "data_datetime": "2025-02-14T16:00:00Z",
+    "product_id": "CI00717531"
+  }
+]
